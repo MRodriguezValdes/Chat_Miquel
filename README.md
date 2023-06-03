@@ -1,6 +1,6 @@
 # Proyecto Final
-# Titulo : "Chat"
-# Descripcion:
+# Título : "Chat"
+# Descripción:
 El objetivo que se busca con este proyecto es simular el comportamiento de un chat.Debemos ser capaces de solucionar los requerimientos que nos han sido planteados por nuestro profesor,siendo estos los siguientes:
 1. Login
 2. Registro
