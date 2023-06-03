@@ -9,7 +9,9 @@ El objetivo que se busca con este proyecto es simular el comportamiento de un ch
 4. Recibir lista de amigos
 5. Enviar mensaje
 6. Recibir mensaje
+
 ```Requisito funcional: Debemos ser capaces de tener abiertas mas de 4 conversaciones , los usuarios deben poder cambiar entre chats sin perder los mensajes.```
+
 # Solucion de los requerimientos:
 ## 1 : Login
 ```js
