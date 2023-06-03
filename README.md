@@ -324,12 +324,12 @@ function insertarMensaje(mail, sms, receptor, idP, idSpan, classNameI) {
 ![](img/login.png)
 
 ## Chat
-![](img/logueado\ sin\ amigos.png)
+![](img/logueado sin amigos.png)
 
 ## Insertando amigo
-![](img/insertando\ amigo.png)
-![](img/sale\ el\ amigo.png)
-![](img/amigo\ insertado.png)
+![](img/insertando amigo.png)
+![](img/sale el amigo.png)
+![](img/amigo insertado.png)
 
 ## Chat
 ## Marcos - Miquel
@@ -338,7 +338,7 @@ function insertarMensaje(mail, sms, receptor, idP, idSpan, classNameI) {
 
 ## Miquel - Lila
 
-![](img/miquel-lila.png)
+![](img/miquel - lila.png)
 
 ## Lila - Juan
 
@@ -346,4 +346,4 @@ function insertarMensaje(mail, sms, receptor, idP, idSpan, classNameI) {
 
 ## Lila conserva mensajes con miquel
 
-![](img/lila\ conserva\ mensajes\ con\ taberner.png)
+![](img/lila conserva mensajes con taberner.png)
