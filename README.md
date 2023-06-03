@@ -318,3 +318,32 @@ function insertarMensaje(mail, sms, receptor, idP, idSpan, classNameI) {
 }
 ```
 # Pruebas funcionales:
+## Registro:
+![](img/registro.png)
+## Login
+![](img/login.png)
+
+## Chat
+![](img/logueado\ sin\ amigos.png)
+
+## Insertando amigo
+![](img/insertando\ amigo.png)
+![](img/sale\ el\ amigo.png)
+![](img/amigo\ insertado.png)
+
+## Chat
+## Marcos - Miquel
+
+![](img/marcos-miquel.png)
+
+## Miquel - Lila
+
+![](img/miquel-lila.png)
+
+## Lila - Juan
+
+![](img/lila-juan.png)
+
+## Lila conserva mensajes con miquel
+
+![](img/lila\ conserva\ mensajes\ con\ taberner.png)
