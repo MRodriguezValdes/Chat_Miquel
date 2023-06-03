@@ -346,4 +346,4 @@ function insertarMensaje(mail, sms, receptor, idP, idSpan, classNameI) {
 
 ## Lila conserva mensajes con miquel
 
-![](img/lilaConservMensajesConTaberner.png)
+![](img/lilaConservaMensajesConTaberner.png)
