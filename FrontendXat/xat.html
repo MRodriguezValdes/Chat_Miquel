@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chat</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/f1b6205bc6.js" crossorigin="anonymous"></script>
+  </head>
+  <body onload="recibirListaDeAmigos()">
+    <div class="container">
+      <div class="chat-window">
+        <div class="header">
+          <h1>Chat</h1>
+          <button onclick="logout()"><i class="fa-solid fa-arrow-right-from-bracket" id="logoutIcon"></i></button>
+        </div>
+        <div class="friend-list">
+          <h2>Amigos</h2>
+          <div id="amigos">
+            <input type="email" name="friendMail" id="friendMail" />
+            <button onclick="agregarAmigo()"><i class="fa-solid fa-user-plus" ></i></button><br />
+          </div>
+          
+          <select name="receptor" id="receptor" onchange="modificarTarget()">
+            <!-- Opciones del backend -->
+          </select>
+        </div>
+        <div class="conversation">
+          <div id="mailFriend">
+            <!-- Aquí se mostrará la conversación -->
+          </div>
+        </div>
+        <div class="input-box">
+          <input
+            type="text"
+            name="sms"
+            id="sms"
+            placeholder="Escribe un mensaje..."
+          />
+          <button onclick="enviarMensaje()"><i class="fa-solid fa-paper-plane" style="color: #ffffff;"></i></button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
